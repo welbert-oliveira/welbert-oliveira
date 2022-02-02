@@ -6,6 +6,7 @@ Obrigado pela compreensão.
   <a href="https://github.com/welbert-oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=welbert-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welbert-oliveira&layout=compact&langs_count=7&theme=dark"/>
+  <!--<img align="right" alt="Jack-Avatar" height="150" style="border-radius:50px;" src="https://mangatar.framiq.com/pt/salvar/?av=bg-068-000_bl-001-000_bt-022-000000_eb-008-005_ey-010-010_fc-001-007_fh-013-005_ha-000-000_hr-006-005_mo-001-000_no-006-000_sh-012-001&v=0">-->
 </div>
   
 <div style="display: inline_block"><br>
