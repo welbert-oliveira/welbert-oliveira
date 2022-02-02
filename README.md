@@ -22,8 +22,7 @@ Obrigado pela compreensão.
   <a href = "mailto:welbert.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/oliveira_welbert" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/welbertoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="hhttps://api.whatsapp.com/send?phone=5531985823150&text=Clique aqui para me enviar uma mensagem" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=%2white&target=_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5531985823150" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=%2white&target=_blank"></a>
 </div>
 
 ##
